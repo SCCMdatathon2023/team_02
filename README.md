@@ -2,4 +2,4 @@
 
 Also - How can we relate this cardiovascular-focused question to patient safety, COVID-19, and/or health equity?
 
-![Oxygen-hemoglobin dissociation curve](images/oxyhemoglobin_dissociation.jpeg)
+![Oxygen-hemoglobin dissociation curve](reference/oxyhemoglobin_dissociation.jpeg)
