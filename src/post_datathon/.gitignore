@@ -1,2 +1,5 @@
 # Ignore the data directory
 /data
+
+.DS_Store
+.ipynb_checkpoints/
